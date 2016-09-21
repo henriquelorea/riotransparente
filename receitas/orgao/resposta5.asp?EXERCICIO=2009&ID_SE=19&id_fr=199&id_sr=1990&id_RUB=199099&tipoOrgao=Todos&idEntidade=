@@ -1,0 +1,201 @@
+
+<table class="tabela" width="100%">
+
+<tr class="tabela" id="linhaNivel50">
+	<td width="8%" id="coluna1Nivel50">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel50"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2009&ID_SE=19&id_fr=199&id_sr=1990&id_RUB=199099&ID_srub=19909901&tipoOrgao=Todos&idEntidade=','','','','','0','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel50">19909901- OUTRAS RECEITAS - ADM. DIRETA                                                                                                                                                                                                                   </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel50"><div align="right">R$ 12.996.941,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel50"><div align="right">R$ 83.238.805,04</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel60"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel51">
+	<td width="8%" id="coluna1Nivel51">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel51"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2009&ID_SE=19&id_fr=199&id_sr=1990&id_RUB=199099&ID_srub=19909999&tipoOrgao=Todos&idEntidade=','','','','','1','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel51">19909999- OUTRAS RECEITAS DIVERSAS                                                                                                                                                                                                                        </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel51"><div align="right">R$ 27.506.772,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel51"><div align="right">R$ 4.017.313,98</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel61"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel52">
+	<td width="8%" id="coluna1Nivel52">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel52"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2009&ID_SE=19&id_fr=199&id_sr=1990&id_RUB=199099&ID_srub=19909902&tipoOrgao=Todos&idEntidade=','','','','','2','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel52">19909902- OUTRAS RECEITAS - AUTARQUIAS E FUNDACOES                                                                                                                                                                                                        </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel52"><div align="right">R$ 5.766.051,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel52"><div align="right">R$ 14.971.769,37</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel62"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel53">
+	<td width="8%" id="coluna1Nivel53">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel53"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2009&ID_SE=19&id_fr=199&id_sr=1990&id_RUB=199099&ID_srub=19909904&tipoOrgao=Todos&idEntidade=','','','','','3','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel53">19909904- RECEITAS DE CONTRAPARTIDA EM OPERACOES INTERLIGADAS E REGULARIZACAO DE OBRAS                                                                                                                                                                    </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel53"><div align="right">R$ 2.335.234,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel53"><div align="right">R$ 17.413.598,10</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel63"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel54">
+	<td width="8%" id="coluna1Nivel54">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel54"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2009&ID_SE=19&id_fr=199&id_sr=1990&id_RUB=199099&ID_srub=19909907&tipoOrgao=Todos&idEntidade=','','','','','4','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel54">19909907- DESCONTOS OBTIDOS - EMPRESAS                                                                                                                                                                                                                    </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel54"><div align="right">R$ 191.920,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel54"><div align="right">R$ 151.325,39</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel64"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel55">
+	<td width="8%" id="coluna1Nivel55">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel55"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2009&ID_SE=19&id_fr=199&id_sr=1990&id_RUB=199099&ID_srub=19909905&tipoOrgao=Todos&idEntidade=','','','','','5','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel55">19909905- DESCONTOS OBTIDOS - ADM. DIRETA                                                                                                                                                                                                                 </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel55"><div align="right">R$ 2.161.509,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel55"><div align="right">R$ 2.465.219,24</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel65"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel56">
+	<td width="8%" id="coluna1Nivel56">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel56"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2009&ID_SE=19&id_fr=199&id_sr=1990&id_RUB=199099&ID_srub=19909903&tipoOrgao=Todos&idEntidade=','','','','','6','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel56">19909903- OUTRAS RECEITAS - EMPRESAS                                                                                                                                                                                                                      </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel56"><div align="right">R$ 426.691,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel56"><div align="right">R$ 4.144.153,93</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel66"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel57">
+	<td width="8%" id="coluna1Nivel57">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel57"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2009&ID_SE=19&id_fr=199&id_sr=1990&id_RUB=199099&ID_srub=19909906&tipoOrgao=Todos&idEntidade=','','','','','7','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel57">19909906- DESCONTOS OBTIDOS - AUTARQUIA E FUNDACAO                                                                                                                                                                                                        </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel57"><div align="right">R$ 7.011,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel57"><div align="right">R$ 249,62</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel67"></div></td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+	
+
+
+
+
+

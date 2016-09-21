@@ -1,0 +1,40 @@
+
+<table class="tabela" width="100%">
+
+<tr class="tabela" id="linhaNivel50">
+	<td width="8%" id="coluna1Nivel50">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel50"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2010&ID_SE=16&id_fr=160&id_sr=1600&id_RUB=160018&ID_srub=16001803&tipoOrgao=Todos&idEntidade=','','','','','0','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel50">16001803- SERVICOS DE REPARACAO,MANUTENCAO E INSTALACAO - EMPRESAS                                                                                                                                                                                        </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel50"><div align="right">R$ 780.000,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel50"><div align="right">R$ 362.667,90</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel60"></div></td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+	
+
+
+
+
+

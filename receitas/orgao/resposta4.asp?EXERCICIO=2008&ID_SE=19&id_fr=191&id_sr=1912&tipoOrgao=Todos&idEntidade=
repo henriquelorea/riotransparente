@@ -1,0 +1,40 @@
+
+<table class="tabela" width="100%">
+
+<tr class="tabela" id="linhaNivel40">
+	<td width="6%" id="coluna1Nivel40">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel40"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2008&ID_SE=19&id_fr=191&id_sr=1912&id_RUB=191229&tipoOrgao=Todos&idEntidade=','','','','0','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel40">191229- MULTAS E JUROS DE MORA CONTRIBUICOES PARA REGIME PROPRIO DE PREVIDENCIA DO SERVIDOR - RPPS                                                                                                                                                        </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel40"><div align="right">R$ 0,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel40"><div align="right">R$ 1.448,52</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel50"></div></td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+	
+
+
+
+
+

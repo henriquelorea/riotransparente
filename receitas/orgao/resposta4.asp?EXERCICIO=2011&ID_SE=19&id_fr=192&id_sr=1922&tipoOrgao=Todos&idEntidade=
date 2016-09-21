@@ -1,0 +1,109 @@
+
+<table class="tabela" width="100%">
+
+<tr class="tabela" id="linhaNivel40">
+	<td width="6%" id="coluna1Nivel40">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel40"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2011&ID_SE=19&id_fr=192&id_sr=1922&id_RUB=192210&tipoOrgao=Todos&idEntidade=','','','','0','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel40">192210- COMPENSACOES FINANCEIRAS ENTRE O REGIME GERAL E OS REGIMES PROPRIOS DE PREV.DOS SERVIDORES                                                                                                                                                        </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel40"><div align="right">R$ 9.200.000,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel40"><div align="right">R$ 34.716.310,73</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel50"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel41">
+	<td width="6%" id="coluna1Nivel41">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel41"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2011&ID_SE=19&id_fr=192&id_sr=1922&id_RUB=192299&tipoOrgao=Todos&idEntidade=','','','','1','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel41">192299- OUTRAS RESTITUICOES                                                                                                                                                                                                                               </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel41"><div align="right">R$ 5.672.516,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel41"><div align="right">R$ 742.626,69</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel51"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel42">
+	<td width="6%" id="coluna1Nivel42">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel42"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2011&ID_SE=19&id_fr=192&id_sr=1922&id_RUB=192201&tipoOrgao=Todos&idEntidade=','','','','2','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel42">192201- RESTITUICOES DE CONVENIOS                                                                                                                                                                                                                         </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel42"><div align="right">R$ 0,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel42"><div align="right">R$ 306.437,61</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel52"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel43">
+	<td width="6%" id="coluna1Nivel43">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel43"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2011&ID_SE=19&id_fr=192&id_sr=1922&id_RUB=192207&tipoOrgao=Todos&idEntidade=','','','','3','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel43">192207- RECUPERACAO DE DESPESAS DE EXERCICIOS ANTERIORES                                                                                                                                                                                                  </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel43"><div align="right">R$ 415.474,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel43"><div align="right">R$ 875.645,78</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel53"></div></td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+	
+
+
+
+
+

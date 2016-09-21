@@ -1,0 +1,63 @@
+
+<table class="tabela" width="100%">
+
+<tr class="tabela" id="linhaNivel50">
+	<td width="8%" id="coluna1Nivel50">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel50"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2007&ID_SE=19&id_fr=199&id_sr=1990&id_RUB=199098&ID_srub=19909803&tipoOrgao=Todos&idEntidade=','','','','','0','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel50">19909803- DESCONTOS OBTIDOS - EMPRESAS                                                                                                                                                                                                                    </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel50"><div align="right">R$ 104.480,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel50"><div align="right">R$ 207.438,42</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel60"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel51">
+	<td width="8%" id="coluna1Nivel51">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel51"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2007&ID_SE=19&id_fr=199&id_sr=1990&id_RUB=199098&ID_srub=19909802&tipoOrgao=Todos&idEntidade=','','','','','1','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel51">19909802- DESCONTOS OBTIDOS - AUTARQUIA E FUNDACAO                                                                                                                                                                                                        </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel51"><div align="right">R$ 5.956,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel51"><div align="right">R$ 64.420,79</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel61"></div></td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+	
+
+
+
+
+

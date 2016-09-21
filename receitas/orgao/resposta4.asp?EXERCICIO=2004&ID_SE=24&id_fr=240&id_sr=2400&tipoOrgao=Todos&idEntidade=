@@ -1,0 +1,40 @@
+
+<table class="tabela" width="100%">
+
+<tr class="tabela" id="linhaNivel40">
+	<td width="6%" id="coluna1Nivel40">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel40"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2004&ID_SE=24&id_fr=240&id_sr=2400&id_RUB=240000&tipoOrgao=Todos&idEntidade=','','','','0','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel40">240000- TRANSFERENCIAS DE CAPITAL                                                                                                                                                                                                                         </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel40"><div align="right">R$ 0,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel40"><div align="right">R$ 15.415.055,60</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel50"></div></td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+	
+
+
+
+
+

@@ -1,0 +1,155 @@
+
+<table class="tabela" width="100%">
+
+<tr class="tabela" id="linhaNivel40">
+	<td width="6%" id="coluna1Nivel40">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel40"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2015&ID_SE=11&id_fr=112&id_sr=1121&id_RUB=112126&tipoOrgao=Todos&idEntidade=','','','','0','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel40">112126- TAXA DE PUBLICIDADE COMERCIAL                                                                                                                                                                                                                     </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel40"><div align="right">R$ 9.811.906,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel40"><div align="right">R$ 8.297.246,02</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel50"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel41">
+	<td width="6%" id="coluna1Nivel41">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel41"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2015&ID_SE=11&id_fr=112&id_sr=1121&id_RUB=112117&tipoOrgao=Todos&idEntidade=','','','','1','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel41">112117- TAXA DE FISCALIZACAO SANITARIA                                                                                                                                                                                                                    </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel41"><div align="right">R$ 11.596.734,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel41"><div align="right">R$ 16.271.963,59</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel51"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel42">
+	<td width="6%" id="coluna1Nivel42">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel42"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2015&ID_SE=11&id_fr=112&id_sr=1121&id_RUB=112131&tipoOrgao=Todos&idEntidade=','','','','2','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel42">112131- TAXA DE UTILIZACAO DE AREA DE DOMINIO PUBLICO                                                                                                                                                                                                     </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel42"><div align="right">R$ 6.387.048,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel42"><div align="right">R$ 6.067.004,10</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel52"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel43">
+	<td width="6%" id="coluna1Nivel43">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel43"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2015&ID_SE=11&id_fr=112&id_sr=1121&id_RUB=112125&tipoOrgao=Todos&idEntidade=','','','','3','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel43">112125- TAXA LICENCA FUNCION. ESTABELEC. COMERCIAIS, INDUSTRIAIS E PRESTADOR DE SERVICOS                                                                                                                                                                  </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel43"><div align="right">R$ 24.481.084,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel43"><div align="right">R$ 27.836.443,73</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel53"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel44">
+	<td width="6%" id="coluna1Nivel44">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel44"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2015&ID_SE=11&id_fr=112&id_sr=1121&id_RUB=112129&tipoOrgao=Todos&idEntidade=','','','','4','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel44">112129- TAXA DE LICENCA PARA EXECUCAO DE OBRAS                                                                                                                                                                                                            </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel44"><div align="right">R$ 37.824.039,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel44"><div align="right">R$ 32.540.582,31</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel54"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel45">
+	<td width="6%" id="coluna1Nivel45">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel45"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2015&ID_SE=11&id_fr=112&id_sr=1121&id_RUB=112199&tipoOrgao=Todos&idEntidade=','','','','5','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel45">112199- OUTRAS TAXAS PELO EXERCICIO DO PODER DE POLICIA                                                                                                                                                                                                   </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel45"><div align="right">R$ 13.418.121,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel45"><div align="right">R$ 12.183.669,09</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel55"></div></td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+	
+
+
+
+
+

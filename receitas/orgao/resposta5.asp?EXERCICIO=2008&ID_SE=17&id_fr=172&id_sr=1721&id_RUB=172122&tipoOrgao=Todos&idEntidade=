@@ -1,0 +1,109 @@
+
+<table class="tabela" width="100%">
+
+<tr class="tabela" id="linhaNivel50">
+	<td width="8%" id="coluna1Nivel50">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel50"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2008&ID_SE=17&id_fr=172&id_sr=1721&id_RUB=172122&ID_srub=17212220&tipoOrgao=Todos&idEntidade=','','','','','0','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel50">17212220- COTA-PARTE COMPENSACAO FINANCEIRA DE RECURSOS MINERAIS                                                                                                                                                                                          </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel50"><div align="right">R$ 270.659,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel50"><div align="right">R$ 413.491,74</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel60"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel51">
+	<td width="8%" id="coluna1Nivel51">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel51"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2008&ID_SE=17&id_fr=172&id_sr=1721&id_RUB=172122&ID_srub=17212270&tipoOrgao=Todos&idEntidade=','','','','','1','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel51">17212270- COTA-PARTE DO FUNDO ESPECIAL DO PETROLEO - FEP                                                                                                                                                                                                  </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel51"><div align="right">R$ 1.521.906,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel51"><div align="right">R$ 2.013.420,67</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel61"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel52">
+	<td width="8%" id="coluna1Nivel52">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel52"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2008&ID_SE=17&id_fr=172&id_sr=1721&id_RUB=172122&ID_srub=17212230&tipoOrgao=Todos&idEntidade=','','','','','2','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel52">17212230- COTA-PARTE ROYALTIES - COMPENSACAO FINANCEIRA PRODUCAO PETROLEO LEI 7990/89                                                                                                                                                                     </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel52"><div align="right">R$ 68.986.276,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel52"><div align="right">R$ 62.053.113,58</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel62"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel53">
+	<td width="8%" id="coluna1Nivel53">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel53"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2008&ID_SE=17&id_fr=172&id_sr=1721&id_RUB=172122&ID_srub=17212240&tipoOrgao=Todos&idEntidade=','','','','','3','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel53">17212240- COTA-PARTE ROYALTIES - COMPENSACAO FINANCEIRA PRODUCAO PETROLEO LEI 9478/97                                                                                                                                                                     </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel53"><div align="right">R$ 2.608.821,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel53"><div align="right">R$ 4.203.516,32</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel63"></div></td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+	
+
+
+
+
+

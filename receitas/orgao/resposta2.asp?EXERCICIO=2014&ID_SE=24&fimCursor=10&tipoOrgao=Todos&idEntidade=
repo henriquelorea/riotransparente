@@ -1,0 +1,70 @@
+
+<table class="tabela"  width="100%">
+
+<tr class="tabela" id="linhaNivel20">
+	<td width="2%" id="coluna1Nivel20">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel20"><a href="#Resp1" onclick="AbreTreeViewNivel3('&EXERCICIO=2014&ID_SE=24&id_fr=242&tipoOrgao=Todos&idEntidade=','','0','','','','','','receitas/orgao/resposta3.asp','receitas/orgao/linkNivel02Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel20">242- TRANSFERENCIAS INTERGOVERNAMENTAIS                                                                                                                                                                                                                   </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel20"><div align="right">R$ 32.094.674,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel20"><div align="right">R$ 18.553.261,60</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel30"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel21">
+	<td width="2%" id="coluna1Nivel21">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel21"><a href="#Resp1" onclick="AbreTreeViewNivel3('&EXERCICIO=2014&ID_SE=24&id_fr=243&tipoOrgao=Todos&idEntidade=','','1','','','','','','receitas/orgao/resposta3.asp','receitas/orgao/linkNivel02Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel21">243- TRANSFERENCIAS DE INSTITUICOES PRIVADAS                                                                                                                                                                                                              </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel21"><div align="right">R$ 12.315.587,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel21"><div align="right">R$ 35.514.885,69</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel31"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel22">
+	<td width="2%" id="coluna1Nivel22">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel22"><a href="#Resp1" onclick="AbreTreeViewNivel3('&EXERCICIO=2014&ID_SE=24&id_fr=247&tipoOrgao=Todos&idEntidade=','','2','','','','','','receitas/orgao/resposta3.asp','receitas/orgao/linkNivel02Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel22">247- TRANSFERENCIAS DE CONVENIOS                                                                                                                                                                                                                          </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel22"><div align="right">R$ 1.176.497.023,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel22"><div align="right">R$ 280.714.010,55</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel32"></div></td>
+</tr>
+
+</table>

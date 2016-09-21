@@ -1,0 +1,40 @@
+
+<table class="tabela" width="100%">
+
+<tr class="tabela" id="linhaNivel50">
+	<td width="8%" id="coluna1Nivel50">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel50"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2016&ID_SE=24&id_fr=247&id_sr=2471&id_RUB=247103&ID_srub=24710301&tipoOrgao=Todos&idEntidade=','','','','','0','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel50">24710301- TRANSFERENCIAS DE CONVENIOS DA UNIAO DESTINADOS A PROGR.DE SANEAMENTO BASICO-ADM.DIRETA                                                                                                                                                         </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel50"><div align="right">R$ 87.507.703,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel50"><div align="right">R$ 0,00</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel60"></div></td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+	
+
+
+
+
+

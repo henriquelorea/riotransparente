@@ -1,0 +1,356 @@
+<!--include virtual="/riotransparente/adm/rastro_v2/count.asp"-->
+<table><tr><td><img src="imagens/faixaTopo_Receitas_LateralEsquerda.png" height="40" /><img src="imagens/faixaTopo_Receitas_Centro.png" width="400" height="40" /><img src="imagens/faixaTopo_Receitas_LateralDireita.png" height="40" /></td></tr></table>
+<br />
+<b>Voc&ecirc; est&aacute; em:</b><br /> 
+<input id="id_entidade" type="hidden" value="" />
+<input id="entidade" type="hidden" value="" />
+<input id="tipoOrgao" type="hidden" value="Todos" />
+<a  class="linkbreadcrumbs" href="javascript:MostraLink(4);" title="Por &Oacute;rg&atilde;o" alt="Por &Oacute;rg&atilde;o">Por &Oacute;rg&atilde;o</a> <img src="images/seta.png" height="18" border="0" align="absmiddle"/> <a  class="linkbreadcrumbs" href="#" title="Apresenta&ccedil;&atilde;o em Dados" alt="Apresenta&ccedil;&atilde;o em Dados">Apresenta&ccedil;&atilde;o em Dados</a>
+<!-- > <a href="#" onclick="Msg();">Esp&eacute;cie</a> > <a href="#" onclick="Msg();">Rubrica</a> > <a href="#" onclick="Msg();">Al&iacute;neas</a> > <a href="#" onclick="Msg();">Subal&iacute;neas</a> > <a href="#" onclick="Msg();">Subrubricas</a> -->
+<!--include virtual="/riotransparente/Connection/transp_receitas.asp"-->
+
+<div align="right" class="CorLaranja" style="width:700px"><i>Atualizado em: 13/09/2016</i></div><br />
+<table width="90%" border="0" cellpadding="10">
+<tr>
+	<td colspan="3">
+	<p id="paragrafo"></p>
+		
+
+	Esta vis&atilde;o permite o usu&aacute;rio  detalhar  especificamente  uma informa&ccedil;&atilde;o ou  apresentar  de forma ampla um determinado n&iacute;vel.
+	</td>
+</tr>
+<tr>
+	<td>
+		<table>
+			<tr>
+				<td>Exerc&iacute;cio:</td>
+				<td><b><div id="exercicio">
+				<SELECT name="ano" id="ano" size="1" onchange="TrocaExercicioReceitasPorOrgaoAnual('Todos', '', '', 'Anual')">
+				<option selected>1999</option>							
+				
+			<option >2016</option>
+			
+			<option >2015</option>
+			
+			<option >2014</option>
+			
+			<option >2013</option>
+			
+			<option >2012</option>
+			
+			<option >2011</option>
+			
+			<option >2010</option>
+			
+			<option >2009</option>
+			
+			<option >2008</option>
+						
+	  			</SELECT></div>	
+	  			</b>
+				</td>
+			</tr>
+		</table>
+	 
+	    </td>
+	<td>
+	<a href="#" onclick="MostraGraficoRespostaReceitasPorOrgao2('1999','Todos','','','Anual');" title="Apresenta&ccedil;&atilde;o em gr&aacute;fico" alt="Apresenta&ccedil;&atilde;o em gr&aacute;fico"><img src="imagens/iconeGrafico.png" width="40" align="middle" border="0"/> Apresenta&ccedil;&atilde;o em gr&aacute;fico</a>
+	</td>
+	<td align="right"></td>
+</tr>
+<tr>
+	<td>
+		&Oacute;RG&Atilde;O: 
+		
+			<b>Todos</b><br />
+			
+		<input type="hidden" id="idEntidade" value="" />
+		<br />
+		Per&iacute;odo: <b>Anual</b>
+	</td>
+	<td colspan="2">
+		<!--<input name="rdPesquisaGeral" id="rdPesquisaGeral" type="radio" value="Pesquisa Geral" checked="checked" onclick="MostraDivPeriodoLimpar();MostraDadosRespostaReceitasPorOrgao2('','','','');" />Pesquisa Geral
+		<input name="rdPesquisaPeriodo" id="rdPesquisaPeriodo" type="radio" value="Pesquisa Por Per&iacute;odo" onclick="MostraDivPeriodoOrgao('','');" />Pesquisa Por Per&iacute;odo-->
+	</td>
+</tr>
+<tr>
+	<td colspan="3"><div id="periodo"></div>
+	</td>
+</tr>
+<tr>
+	<td colspan="3">
+	<div id="mes">
+	
+	</div>
+	</td>
+</tr>
+</table><a name="Resp" id="Resp"></a>
+<div id="resposta"><!-- inicio div resposta -->	
+<br />
+
+	<table width="100%" align="right" border="0" cellpadding="5">
+	<tr>
+		<td colspan="3" align="right">
+			<a href="#" onclick="Imprime();" title="Imprimir" alt="Imprimir"><img src="imagens/print.jpg" align="middle" border="0" width="28"/></a>&nbsp;
+		<a href="receitas/orgao/resposta1Export.asp?EXERCICIO=1999&entidade=&idEntidade=&periodo=Anual&tipoExportacao=txt&fimCursor=&8" title="Exportar para TXT" alt="Exportar para TXT" target="_blank"><img src="imagens/icon_txt.png" align="middle" border="0" width="28"  /></a>&nbsp;
+		<a href="receitas/orgao/resposta1Export.asp?EXERCICIO=1999&entidade=&idEntidade=&periodo=Anual&tipoExportacao=csv&fimCursor=&8" title="Exportar para CSV" alt="Exportar para CSV" target="_blank"><img src="imagens/icon_csv.png" align="middle" border="0" width="28"  /></a>&nbsp;
+		<a href="receitas/orgao/resposta1Export.asp?EXERCICIO=1999&entidade=&idEntidade=&periodo=Anual&tipoExportacao=xls&fimCursor=&8" title="Exportar para XLS" alt="Exportar para XLS" target="_blank"><img src="imagens/icon_xls.png" align="middle" border="0" width="28"  /></a>&nbsp;
+		<a href="receitas/orgao/resposta1Export.asp?EXERCICIO=1999&entidade=&idEntidade=&periodo=Anual&tipoExportacao=rtf&fimCursor=&8"title="Exportar para RTF" alt="Exportar para RTF" target="_blank"><img src="imagens/icon_rtf.png" align="middle" border="0" width="28"   /></a>&nbsp;
+		<a href="receitas/orgao/resposta1Export.asp?EXERCICIO=1999&entidade=&idEntidade=&periodo=Anual&tipoExportacao=xml&fimCursor=&8" title="Exportar para XML" alt="Exportar para XML" target="_blank"><img src="imagens/icon_xml.png" align="middle" border="0" width="28" /></a>
+		<br />
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="2">Total em: <b>1999</b></td>
+		<td align="right" width="20%"><b>Valor Previsto</b></td>
+		<td align="right" width="20%"><b>Valor Arrecadado</b></td>
+	</tr>
+	<tr align="right">
+		<td align="center"><div align="right">R$ 7.223.676.719,00</div></td>
+		<td align="center"><div align="right">R$ 7.656.103.998,77</div></td>
+	</tr>
+	</table>
+	<br /><br /><br /><br />
+	
+	<table class="tabela" width="100%" border="0">
+	<tr>
+		<td colspan="4" align="right"><!-- inicio paginacao -->
+		<table width="100%" align="left">
+	<tr>
+		<td align="right">
+		<span class='paginacao'>P&aacute;gina <b>1</b> de <b>1</b>&nbsp;</span>
+		</td>
+		<td width="3%" align="right">
+		
+		<i><a href="#Resp" title="Primeira P&aacute;gina">
+		<img src="imagens/setaPrimeiraInativa.JPG" width="20" border="0"/></a></i> 	
+		
+		</td>
+		<td width="3%" align="right">
+		
+		<i><a href="#Resp" title="P&aacute;gina Anterior">
+		<img src="imagens/setaEsquerdaInativa.JPG" width="20" border="0"/></a></i> 	
+		
+		</td>
+		<td width="3%" align="right">
+		
+		<i><a href="#Resp" title="Pr&oacute;xima P&aacute;gina"><img src="imagens/setaDireitaInativa.JPG" width="20" border="0"/></a></i>
+		
+		</td>
+		<td width="3" align="right">
+		
+		<i><a href="#Resp" title="&Uacute;ltima P&aacute;gina" onclick="Paginacao('resposta','receitas/orgao/receitasPorOrgaoApresentacaoDados.asp?EXERCICIO=1999&PagAtual=2&inicioCursor=10&ordena=&tipoOrgao=Todos&id_entidade=');"><img src="imagens/setaUltimaInativa.JPG" width="20" border="0"/></a></i>
+		
+		</td>
+	</tr>
+</table>	</td><!-- fim paginacao -->	
+	</tr>
+	<tr bgcolor="#003399">
+		<!--<th class="CorBranco" width="20%"><div align="left">Origem<a href="#Resp" onclick="MostraDadosRespostaReceitasPorOrgaoOrdena('&ordena=origemDecresc');" alt="Ordenar" title="Ordenar"><img src="imagens/sort_icon.gif" align="bottom" border="0"></a></div></th>-->
+		<th class="CorBranco" width="40%"><div align="left">Origem<!--<a href="#Resp" onclick="MostraDadosRespostaReceitasPorOrgaoOrdena('&ordena=especieDecresc');" alt="Ordenar" title="Ordenar"><img src="imagens/sort_icon.gif" align="bottom" border="0"></a>--></div></th>
+		<th class="CorBranco" nowrap="nowrap" width="20%"><div align="right">Valor Previsto<!--<a href="#Resp" onclick="MostraDadosRespostaReceitasPorOrgaoOrdena('&ordena=previstoDecresc');" alt="Ordenar" title="Ordenar"><img src="imagens/sort_icon.gif" align="bottom" border="0"></a>--></div></th>
+		<th class="CorBranco" nowrap="nowrap" width="20%"><div align="right">Valor Arrecadado<!--<a href="#Resp" onclick="MostraDadosRespostaReceitasPorOrgaoOrdena('&ordena=acumuladoDecresc');" alt="Ordenar" title="Ordenar"><img src="imagens/sort_icon.gif" align="bottom" border="0"></a>--></div></th>
+	</tr>
+	
+	<tr class="tabela" id="linha0">
+		<!--<td class="tabela" id="coluna1"><div align="left"></div></td>-->
+		<td width="40%">
+		
+		<table>
+			<tr>
+				<td class="tabela">
+					
+				<div id="linkNivel10"><a href="#Resp1" onclick="AbreTreeViewNivel2('&EXERCICIO=1999&ID_SE=11&fimCursor=8&tipoOrgao=Todos&idEntidade=','0','','','','','', '','receitas/orgao/resposta2.asp','receitas/orgao/linkNivel01Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+				</td>
+				<td class="tabela" id="coluna20">11- RECEITA TRIBUTARIA                                                                                                                                                                                                                                    </td>
+			</tr>
+		</table>
+		
+		</td>
+		<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna30"><div align="right">R$ 1.728.209.335,00</div></td>
+		<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna40"><div align="right">R$ 1.729.156.697,47</div></td>
+	</tr>
+	<tr>
+		<td colspan="4"><div id="nivel20"></div></td>
+	</tr>
+	
+	<tr class="tabela" id="linha1">
+		<!--<td class="tabela" id="coluna1"><div align="left"></div></td>-->
+		<td width="40%">
+		
+		<table>
+			<tr>
+				<td class="tabela">
+					
+				<div id="linkNivel11"><a href="#Resp1" onclick="AbreTreeViewNivel2('&EXERCICIO=1999&ID_SE=13&fimCursor=8&tipoOrgao=Todos&idEntidade=','1','','','','','', '','receitas/orgao/resposta2.asp','receitas/orgao/linkNivel01Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+				</td>
+				<td class="tabela" id="coluna21">13- RECEITAS PATRIMONIAIS                                                                                                                                                                                                                                 </td>
+			</tr>
+		</table>
+		
+		</td>
+		<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna31"><div align="right">R$ 335.039.658,00</div></td>
+		<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna41"><div align="right">R$ 1.438.581.368,56</div></td>
+	</tr>
+	<tr>
+		<td colspan="4"><div id="nivel21"></div></td>
+	</tr>
+	
+	<tr class="tabela" id="linha2">
+		<!--<td class="tabela" id="coluna1"><div align="left"></div></td>-->
+		<td width="40%">
+		
+		<table>
+			<tr>
+				<td class="tabela">
+					
+				<div id="linkNivel12"><a href="#Resp1" onclick="AbreTreeViewNivel2('&EXERCICIO=1999&ID_SE=16&fimCursor=8&tipoOrgao=Todos&idEntidade=','2','','','','','', '','receitas/orgao/resposta2.asp','receitas/orgao/linkNivel01Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+				</td>
+				<td class="tabela" id="coluna22">16- RECEITA DE SERVICOS                                                                                                                                                                                                                                   </td>
+			</tr>
+		</table>
+		
+		</td>
+		<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna32"><div align="right">R$ 170.110.356,00</div></td>
+		<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna42"><div align="right">R$ 30.840.493,62</div></td>
+	</tr>
+	<tr>
+		<td colspan="4"><div id="nivel22"></div></td>
+	</tr>
+	
+	<tr class="tabela" id="linha3">
+		<!--<td class="tabela" id="coluna1"><div align="left"></div></td>-->
+		<td width="40%">
+		
+		<table>
+			<tr>
+				<td class="tabela">
+					
+				<div id="linkNivel13"><a href="#Resp1" onclick="AbreTreeViewNivel2('&EXERCICIO=1999&ID_SE=17&fimCursor=8&tipoOrgao=Todos&idEntidade=','3','','','','','', '','receitas/orgao/resposta2.asp','receitas/orgao/linkNivel01Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+				</td>
+				<td class="tabela" id="coluna23">17- TRANSFERENCIAS CORRENTES                                                                                                                                                                                                                              </td>
+			</tr>
+		</table>
+		
+		</td>
+		<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna33"><div align="right">R$ 1.347.018.284,00</div></td>
+		<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna43"><div align="right">R$ 2.435.403.417,68</div></td>
+	</tr>
+	<tr>
+		<td colspan="4"><div id="nivel23"></div></td>
+	</tr>
+	
+	<tr class="tabela" id="linha4">
+		<!--<td class="tabela" id="coluna1"><div align="left"></div></td>-->
+		<td width="40%">
+		
+		<table>
+			<tr>
+				<td class="tabela">
+					
+				<div id="linkNivel14"><a href="#Resp1" onclick="AbreTreeViewNivel2('&EXERCICIO=1999&ID_SE=19&fimCursor=8&tipoOrgao=Todos&idEntidade=','4','','','','','', '','receitas/orgao/resposta2.asp','receitas/orgao/linkNivel01Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+				</td>
+				<td class="tabela" id="coluna24">19- OUTRAS RECEITAS CORRENTES                                                                                                                                                                                                                             </td>
+			</tr>
+		</table>
+		
+		</td>
+		<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna34"><div align="right">R$ 788.813.311,00</div></td>
+		<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna44"><div align="right">R$ 777.899.595,32</div></td>
+	</tr>
+	<tr>
+		<td colspan="4"><div id="nivel24"></div></td>
+	</tr>
+	
+	<tr class="tabela" id="linha5">
+		<!--<td class="tabela" id="coluna1"><div align="left"></div></td>-->
+		<td width="40%">
+		
+		<table>
+			<tr>
+				<td class="tabela">
+					
+				<div id="linkNivel15"><a href="#Resp1" onclick="AbreTreeViewNivel2('&EXERCICIO=1999&ID_SE=21&fimCursor=8&tipoOrgao=Todos&idEntidade=','5','','','','','', '','receitas/orgao/resposta2.asp','receitas/orgao/linkNivel01Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+				</td>
+				<td class="tabela" id="coluna25">21- OPERACOES DE CREDITO                                                                                                                                                                                                                                  </td>
+			</tr>
+		</table>
+		
+		</td>
+		<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna35"><div align="right">R$ 2.849.291.130,00</div></td>
+		<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna45"><div align="right">R$ 1.243.245.109,52</div></td>
+	</tr>
+	<tr>
+		<td colspan="4"><div id="nivel25"></div></td>
+	</tr>
+	
+	<tr class="tabela" id="linha6">
+		<!--<td class="tabela" id="coluna1"><div align="left"></div></td>-->
+		<td width="40%">
+		
+		<table>
+			<tr>
+				<td class="tabela">
+					
+				<div id="linkNivel16"><a href="#Resp1" onclick="AbreTreeViewNivel2('&EXERCICIO=1999&ID_SE=22&fimCursor=8&tipoOrgao=Todos&idEntidade=','6','','','','','', '','receitas/orgao/resposta2.asp','receitas/orgao/linkNivel01Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+				</td>
+				<td class="tabela" id="coluna26">22- ALIENACAO DE BENS                                                                                                                                                                                                                                     </td>
+			</tr>
+		</table>
+		
+		</td>
+		<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna36"><div align="right">R$ 5.069.401,00</div></td>
+		<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna46"><div align="right">R$ 434.381,76</div></td>
+	</tr>
+	<tr>
+		<td colspan="4"><div id="nivel26"></div></td>
+	</tr>
+	
+	<tr class="tabela" id="linha7">
+		<!--<td class="tabela" id="coluna1"><div align="left"></div></td>-->
+		<td width="40%">
+		
+		<table>
+			<tr>
+				<td class="tabela">
+					
+				<div id="linkNivel17"><a href="#Resp1" onclick="AbreTreeViewNivel2('&EXERCICIO=1999&ID_SE=23&fimCursor=8&tipoOrgao=Todos&idEntidade=','7','','','','','', '','receitas/orgao/resposta2.asp','receitas/orgao/linkNivel01Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+				</td>
+				<td class="tabela" id="coluna27">23- AMORTIZACAO DE EMPRESTIMOS                                                                                                                                                                                                                            </td>
+			</tr>
+		</table>
+		
+		</td>
+		<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna37"><div align="right">R$ 125.244,00</div></td>
+		<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna47"><div align="right">R$ 0,00</div></td>
+	</tr>
+	<tr>
+		<td colspan="4"><div id="nivel27"></div></td>
+	</tr>
+	
+	<tr class="tabela" id="linha8">
+		<!--<td class="tabela" id="coluna1"><div align="left"></div></td>-->
+		<td width="40%">
+		
+		<table>
+			<tr>
+				<td class="tabela">
+					
+				<div id="linkNivel18"><a href="#Resp1" onclick="AbreTreeViewNivel2('&EXERCICIO=1999&ID_SE=24&fimCursor=8&tipoOrgao=Todos&idEntidade=','8','','','','','', '','receitas/orgao/resposta2.asp','receitas/orgao/linkNivel01Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+				</td>
+				<td class="tabela" id="coluna28">24- TRANSFERENCIAS DE CAPITAL                                                                                                                                                                                                                             </td>
+			</tr>
+		</table>
+		
+		</td>
+		<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna38"><div align="right">R$ 0,00</div></td>
+		<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna48"><div align="right">R$ 542.934,84</div></td>
+	</tr>
+	<tr>
+		<td colspan="4"><div id="nivel28"></div></td>
+	</tr>
+	
+	</table>
+
+
+</div><!-- fim div resposta -->	

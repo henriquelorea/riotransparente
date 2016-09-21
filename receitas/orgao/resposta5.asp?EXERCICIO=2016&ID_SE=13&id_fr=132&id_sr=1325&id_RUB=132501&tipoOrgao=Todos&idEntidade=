@@ -1,0 +1,293 @@
+
+<table class="tabela" width="100%">
+
+<tr class="tabela" id="linhaNivel50">
+	<td width="8%" id="coluna1Nivel50">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel50"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2016&ID_SE=13&id_fr=132&id_sr=1325&id_RUB=132501&ID_srub=13250198&tipoOrgao=Todos&idEntidade=','','','','','0','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel50">13250198- RECEITA DE REMUNERACAO DE DEPOSITOS BANCARIOS DE RECURSOS VINCULADOS - CONVENIOS DA ADM DI                                                                                                                                                      </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel50"><div align="right">R$ 0,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel50"><div align="right">R$ 630.394,04</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel60"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel51">
+	<td width="8%" id="coluna1Nivel51">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel51"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2016&ID_SE=13&id_fr=132&id_sr=1325&id_RUB=132501&ID_srub=13250153&tipoOrgao=Todos&idEntidade=','','','','','1','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel51">13250153- RECURSOS DE CONVENIOS DA ADMINISTRACAO DIRETA (EXCETO FUNDOS ESPECIAIS)                                                                                                                                                                         </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel51"><div align="right">R$ 0,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel51"><div align="right">R$ 5.268.372,28</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel61"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel52">
+	<td width="8%" id="coluna1Nivel52">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel52"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2016&ID_SE=13&id_fr=132&id_sr=1325&id_RUB=132501&ID_srub=13250154&tipoOrgao=Todos&idEntidade=','','','','','2','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel52">13250154- RECURSOS DE CONVENIOS DA ADMINISTRACAO INDIRETA                                                                                                                                                                                                 </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel52"><div align="right">R$ 0,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel52"><div align="right">R$ 377.006,69</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel62"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel53">
+	<td width="8%" id="coluna1Nivel53">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel53"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2016&ID_SE=13&id_fr=132&id_sr=1325&id_RUB=132501&ID_srub=13250151&tipoOrgao=Todos&idEntidade=','','','','','3','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel53">13250151- RECURSOS DO FMAS                                                                                                                                                                                                                                </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel53"><div align="right">R$ 1.664.213,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel53"><div align="right">R$ 1.891.907,66</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel63"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel54">
+	<td width="8%" id="coluna1Nivel54">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel54"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2016&ID_SE=13&id_fr=132&id_sr=1325&id_RUB=132501&ID_srub=13250109&tipoOrgao=Todos&idEntidade=','','','','','4','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel54">13250109- RECEITA DE REM.DE DEPOSITOS BANCARIOS DE RECURSOS VINCULADOS-CONTRIB.INTERV.DOM.ECO (CIDE)                                                                                                                                                      </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel54"><div align="right">R$ 3.638.057,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel54"><div align="right">R$ 340.871,21</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel64"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel55">
+	<td width="8%" id="coluna1Nivel55">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel55"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2016&ID_SE=13&id_fr=132&id_sr=1325&id_RUB=132501&ID_srub=13250199&tipoOrgao=Todos&idEntidade=','','','','','5','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel55">13250199- RECEITA DE REMUNERACAO DE OUTROS DEPOSITOS BANCARIOS DE RECURSOS VINCULADOS                                                                                                                                                                     </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel55"><div align="right">R$ 0,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel55"><div align="right">R$ 7.479.786,35</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel65"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel56">
+	<td width="8%" id="coluna1Nivel56">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel56"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2016&ID_SE=13&id_fr=132&id_sr=1325&id_RUB=132501&ID_srub=13250103&tipoOrgao=Todos&idEntidade=','','','','','6','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel56">13250103- RECEITA DE REMUNERACAO DE DEPOSITOS BANCARIOS DE RECURSOS VINCULADOS - FUNDO DE SAUDE                                                                                                                                                           </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel56"><div align="right">R$ 27.493.346,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel56"><div align="right">R$ 22.549.218,53</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel66"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel57">
+	<td width="8%" id="coluna1Nivel57">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel57"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2016&ID_SE=13&id_fr=132&id_sr=1325&id_RUB=132501&ID_srub=13250156&tipoOrgao=Todos&idEntidade=','','','','','7','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel57">13250156- REC. REMUNERACAO DE DEPOSITOS BANCARIOS DE RECURSOS VINCULADOS-OUTROS RECURSOS VINCULADOS                                                                                                                                                       </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel57"><div align="right">R$ 80.180.620,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel57"><div align="right">R$ 54.473.101,62</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel67"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel58">
+	<td width="8%" id="coluna1Nivel58">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel58"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2016&ID_SE=13&id_fr=132&id_sr=1325&id_RUB=132501&ID_srub=13250102&tipoOrgao=Todos&idEntidade=','','','','','8','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel58">13250102- RECEITA DE REMUNERACAO DE DEPOSITOS BANCARIOS DE RECURSOS VINCULADOS - FUNDEB                                                                                                                                                                   </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel58"><div align="right">R$ 36.947.797,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel58"><div align="right">R$ 22.640.038,35</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel68"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel59">
+	<td width="8%" id="coluna1Nivel59">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel59"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2016&ID_SE=13&id_fr=132&id_sr=1325&id_RUB=132501&ID_srub=13250155&tipoOrgao=Todos&idEntidade=','','','','','9','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel59">13250155- RECURSOS DE OPERACOES DE CREDITOS E CONTRAPARTIDAS                                                                                                                                                                                              </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel59"><div align="right">R$ 0,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel59"><div align="right">R$ 22.450.226,63</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel69"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel510">
+	<td width="8%" id="coluna1Nivel510">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel510"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2016&ID_SE=13&id_fr=132&id_sr=1325&id_RUB=132501&ID_srub=13250101&tipoOrgao=Todos&idEntidade=','','','','','10','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel510">13250101- RECEITA DE REMUNERACAO DE DEPOSITOS BANCARIOSDE RECURSOS VINCULADOS - ROYALTIES                                                                                                                                                                 </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel510"><div align="right">R$ 13.751.684,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel510"><div align="right">R$ 2.610.065,52</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel610"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel511">
+	<td width="8%" id="coluna1Nivel511">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel511"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2016&ID_SE=13&id_fr=132&id_sr=1325&id_RUB=132501&ID_srub=13250152&tipoOrgao=Todos&idEntidade=','','','','','11','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel511">13250152- RECURSOS DE OUTROS FUNDOS ESPECIAIS                                                                                                                                                                                                             </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel511"><div align="right">R$ 30.052.356,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel511"><div align="right">R$ 19.335.497,52</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel611"></div></td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+	
+
+
+
+
+

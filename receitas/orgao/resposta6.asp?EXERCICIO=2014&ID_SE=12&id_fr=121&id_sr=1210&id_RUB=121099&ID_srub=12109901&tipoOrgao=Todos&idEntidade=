@@ -1,0 +1,119 @@
+
+<table class="tabela" width="100%">
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel60">
+	<td width="10%" id="coluna1Nivel60">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel60">
+			1210990101- CONTRIBUICAO DOS SERVIDORES ATIVOS                                                                                                                                                                                                            
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel60"><div align="right">R$ 37.145.600,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel60"><div align="right">R$ 40.646.232,87</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel61">
+	<td width="10%" id="coluna1Nivel61">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel61">
+			1210990102- CONTRIBUICAO DOS SERVIDORES INATIVOS                                                                                                                                                                                                          
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel61"><div align="right">R$ 21.533.400,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel61"><div align="right">R$ 19.797.880,33</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+</table>
+
+
+
+
+
+
+
+	
+
+
+
+
+

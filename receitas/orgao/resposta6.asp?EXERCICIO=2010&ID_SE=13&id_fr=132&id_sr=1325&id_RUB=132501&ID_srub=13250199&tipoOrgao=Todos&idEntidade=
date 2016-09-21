@@ -1,0 +1,1700 @@
+
+<table class="tabela" width="100%">
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel60">
+	<td width="10%" id="coluna1Nivel60">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel60">
+			1325019910- CONV.0186998-78/2005/MIN.ESPORTE-PROG.BRASIL NO ESPORTE DE ALTO RENDIMENTO -SMEL                                                                                                                                                              
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel60"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel60"><div align="right">R$ 0,00</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel61">
+	<td width="10%" id="coluna1Nivel61">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel61">
+			1325019916- CONV.C.R.CEF 174608-93/2005 REG. FUNDIARIA DE ASSENT.PRECARIOS                                                                                                                                                                                
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel61"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel61"><div align="right">R$ -0,00</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel62">
+	<td width="10%" id="coluna1Nivel62">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel62">
+			1325019917- CONV.117/2000/MC-PROGRAMA MONUMENTA/BID-SMC                                                                                                                                                                                                   
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel62"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel62"><div align="right">R$ 184.241,66</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel63">
+	<td width="10%" id="coluna1Nivel63">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel63">
+			1325019918- CONV.C.R.CEF 0174655-78/2005 PROG.ESPORTE E LAZER NA CIDADE                                                                                                                                                                                   
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel63"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel63"><div align="right">R$ 0,00</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel64">
+	<td width="10%" id="coluna1Nivel64">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel64">
+			1325019922- CONV. 219.421-11/2007/MIN TUR/CEF - IMPLANTACAO DE SINALIZACAO TURISTICA NO MUN. DO RJ                                                                                                                                                        
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel64"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel64"><div align="right">R$ 106.889,36</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel65">
+	<td width="10%" id="coluna1Nivel65">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel65">
+			1325019923- CONV. CR-CEF 2607.0223639-10 - MIN.CIDADE - EXEC. SIST. ESGOT. SANIT. BAIRRO DE SEPETIBA                                                                                                                                                      
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel65"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel65"><div align="right">R$ 115.164,63</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel66">
+	<td width="10%" id="coluna1Nivel66">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel66">
+			1325019924- CR 2607.0223645-90/2007 - MIN. CIDADES - CEF PROD. UNID. HAB. NO CENTRO E MAL HERMES - SMH                                                                                                                                                    
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel66"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel66"><div align="right">R$ 161.978,03</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel67">
+	<td width="10%" id="coluna1Nivel67">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel67">
+			1325019925- CONV. CR 2607.0218803-11/2007 - PAC URBANIZACAO - COMPLEXO DA TIJUCA                                                                                                                                                                          
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel67"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel67"><div align="right">R$ 311.614,90</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel68">
+	<td width="10%" id="coluna1Nivel68">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel68">
+			1325019927- CONV. CR 2607.0223644-85/2007 - PAC MORADIA E URBANIZACAO                                                                                                                                                                                     
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel68"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel68"><div align="right">R$ 563.578,48</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel69">
+	<td width="10%" id="coluna1Nivel69">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel69">
+			1325019928- CONV. CR CEF 2607.0228852-28/2007 - MIN. TURISMO - CONSTR. DE CENTRO DE TURISMO                                                                                                                                                               
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel69"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel69"><div align="right">R$ 20.239,97</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel610">
+	<td width="10%" id="coluna1Nivel610">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel610">
+			1325019929- CONV. CR CEF 2607.0223649-35/2007 - PAC URBANIZACAO - COMPLEXO DE MANGUINHOS                                                                                                                                                                  
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel610"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel610"><div align="right">R$ 589.715,76</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel611">
+	<td width="10%" id="coluna1Nivel611">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel611">
+			1325019931- CONV. CR 2607.0223650-76/2007 - PAC URBANIZACAO - COMPLEXO DO ALEMAO                                                                                                                                                                          
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel611"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel611"><div align="right">R$ 682.326,24</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel612">
+	<td width="10%" id="coluna1Nivel612">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel612">
+			1325019932- CONV.CR.2607.0250218-98/2008/MIN.CIDADES-PROG.DE HABITACAO DE INTERESSE SOCIAL - FMHIS                                                                                                                                                        
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel612"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel612"><div align="right">R$ 4.364,93</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel613">
+	<td width="10%" id="coluna1Nivel613">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel613">
+			1325019933- CONV.CR.2607.0250400-17/2008/MIN.CIDADES-PRO D.OU AQUIS.DE UNID.HABIT.NA CIDAD.DO RJ-FMHIS                                                                                                                                                    
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel613"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel613"><div align="right">R$ 84.928,03</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel614">
+	<td width="10%" id="coluna1Nivel614">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel614">
+			1325019934- CONV.0269948-22/2008/MIN.CIDADES-IMPLANTACAO DA UNIDADE DE TRATAMENTO DO RIO ARROIO FUNDO                                                                                                                                                     
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel614"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel614"><div align="right">R$ 32.384,08</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel615">
+	<td width="10%" id="coluna1Nivel615">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel615">
+			1325019935- CONV.CR.CEF 0238942-19/2007/ME/CEF-CONSTR.DE QUADRA DE ESPORTE DO MUNIC.DO RJ-SMEL                                                                                                                                                            
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel615"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel615"><div align="right">R$ 0,00</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel616">
+	<td width="10%" id="coluna1Nivel616">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel616">
+			1325019936- CONV.CR/CEF 264.667-21/2008/MIN.TURISMO-INFRAESTR. URBANA NA PCA NOVA JALLES EM BANGU-SMAC                                                                                                                                                    
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel616"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel616"><div align="right">R$ 0,00</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel617">
+	<td width="10%" id="coluna1Nivel617">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel617">
+			1325019937- CONV.CR/CEF 264.758-24/2008/MIN.TURISMO-INFRAESTRUT.URBANA NA PCA DO AVIADOR EM BANGU-SMAC                                                                                                                                                    
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel617"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel617"><div align="right">R$ 0,00</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel618">
+	<td width="10%" id="coluna1Nivel618">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel618">
+			1325019938- CONV.CR CEF 232.685-71/2007/MIN. CIDADES - CONSTRUCAO DE PRACA EM QUINTINO BOCAIUVA - SMO                                                                                                                                                     
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel618"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel618"><div align="right">R$ 14.995,34</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel619">
+	<td width="10%" id="coluna1Nivel619">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel619">
+			1325019939- CONV. CR CEF 256.673-47/2008/MIN. CIDADES - INFRAESTRUTURA URBANA - RIO COMUNIDADE - SMO                                                                                                                                                      
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel619"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel619"><div align="right">R$ 3.702,60</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel620">
+	<td width="10%" id="coluna1Nivel620">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel620">
+			1325019940- CONV.CR0263602-23/2008/MIN.ESPORTES/CEF-IMPLANT.E MODERNIZ. INFRA-ESTRUT.P/ESPORTE E LAZER                                                                                                                                                    
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel620"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel620"><div align="right">R$ 803,53</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel621">
+	<td width="10%" id="coluna1Nivel621">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel621">
+			1325019941- CONV 01.09.060000/09-EXECUCAO PROJ."DIGITALIZACAO DA CUPULA GALILEU GALILEI"-FINEP/PLANET                                                                                                                                                     
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel621"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel621"><div align="right">R$ 20.188,50</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel622">
+	<td width="10%" id="coluna1Nivel622">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel622">
+			1325019942- CONV 01.10.010700/10-EXEC PROJ."INTEGR.DA FUND.PLANET.A REDE NAC ENS E PESQUISA-RNP/PLANET                                                                                                                                                    
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel622"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel622"><div align="right">R$ 3.520,43</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel623">
+	<td width="10%" id="coluna1Nivel623">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel623">
+			1325019943- CONV. 706977/2009/MJ - PROJETO RIO GERACAO CONSCIENTE-PRONASCI-SEDES                                                                                                                                                                          
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel623"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel623"><div align="right">R$ 24.039,96</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel624">
+	<td width="10%" id="coluna1Nivel624">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel624">
+			1325019944- CONV. MTE/SENAES 722081/2009-FOMENTO E APOIO DO DESENVOLVIM. DA ECONOMIA SOLIDARIA-SEDES                                                                                                                                                      
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel624"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel624"><div align="right">R$ 123.601,88</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel625">
+	<td width="10%" id="coluna1Nivel625">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel625">
+			1325019945- CONV.CR0263603-37/2008/MIN.ESPORTES/CEF-IMPLANT.MODERN.INFRA-EST./CONSTRUCAO CAMPO FUTEBOL                                                                                                                                                    
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel625"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel625"><div align="right">R$ 849,34</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel626">
+	<td width="10%" id="coluna1Nivel626">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel626">
+			1325019946- CONV.11/2008/SDE-IMPLANTACAO DO CENTRO DE MICROFILMAGEM DO ARQ. GERAL DA CIDADE DO RJ-SMC                                                                                                                                                     
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel626"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel626"><div align="right">R$ 2.551,72</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel627">
+	<td width="10%" id="coluna1Nivel627">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel627">
+			1325019947- CONV. 59/2009/SPM/PR - PROJETO MULHERES CONSTRUINDO UM NOVO RIO - SEDES                                                                                                                                                                       
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel627"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel627"><div align="right">R$ 5.932,13</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel628">
+	<td width="10%" id="coluna1Nivel628">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel628">
+			1325019948- CONV.SENASP/MJ 116/2009-PLANO MUNIC. DE SEGURANCA DA CIDADE DO RIO DE JANEIRO-PRONASCI-CVL                                                                                                                                                    
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel628"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel628"><div align="right">R$ 11.538,45</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel629">
+	<td width="10%" id="coluna1Nivel629">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel629">
+			1325019949- CONV. SENASP/MJ 064/2009 - ADEQUACAO DAS INSPETORIAS DA GUARDA MUNICIPAL - PRONASCI - CVL                                                                                                                                                     
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel629"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel629"><div align="right">R$ 29.255,54</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel630">
+	<td width="10%" id="coluna1Nivel630">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel630">
+			1325019950- CONV.2/2009/SNJ/MJ-POSTO AVANCADO P/ACOES ENFRENTAMENTO AO TRAFICO DE PESSOAS-PRONASCI-CVL                                                                                                                                                    
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel630"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel630"><div align="right">R$ 590,38</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel631">
+	<td width="10%" id="coluna1Nivel631">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel631">
+			1325019951- CONV. SENASP/MJ N.058/2009 - PROJETO MULHERES DA PAZ - PRONASCI - SMAS                                                                                                                                                                        
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel631"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel631"><div align="right">R$ 24.537,93</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel632">
+	<td width="10%" id="coluna1Nivel632">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel632">
+			1325019952- CONV. SENASP/MJ 062/2009 - PROJETO PROTEJO - PRONASCI - SMAS                                                                                                                                                                                  
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel632"><div align="right">R$ 0,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel632"><div align="right">R$ 51.039,47</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+</table>
+
+
+
+
+
+
+
+	
+
+
+
+
+

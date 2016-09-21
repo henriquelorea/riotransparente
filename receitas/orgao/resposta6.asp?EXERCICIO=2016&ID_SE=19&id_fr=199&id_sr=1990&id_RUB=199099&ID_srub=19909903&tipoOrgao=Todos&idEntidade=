@@ -1,0 +1,527 @@
+
+<table class="tabela" width="100%">
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel60">
+	<td width="10%" id="coluna1Nivel60">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel60">
+			1990990303- OUTRAS RECEITAS - RIOLUZ                                                                                                                                                                                                                      
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel60"><div align="right">R$ 7.560,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel60"><div align="right">R$ 227.020,63</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel61">
+	<td width="10%" id="coluna1Nivel61">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel61">
+			1990990304- OUTRAS RECEITAS - CET RIO                                                                                                                                                                                                                     
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel61"><div align="right">R$ 156,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel61"><div align="right">R$ 1.178.073,19</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel62">
+	<td width="10%" id="coluna1Nivel62">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel62">
+			1990990305- OUTRAS RECEITAS - COMLURB                                                                                                                                                                                                                     
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel62"><div align="right">R$ 3.389.100,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel62"><div align="right">R$ 445.056,66</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel63">
+	<td width="10%" id="coluna1Nivel63">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel63">
+			1990990306- OUTRAS RECEITAS - IPLANRIO                                                                                                                                                                                                                    
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel63"><div align="right">R$ 695.475,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel63"><div align="right">R$ 527.244,36</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel64">
+	<td width="10%" id="coluna1Nivel64">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel64">
+			1990990307- OUTRAS RECEITAS - RIOTUR                                                                                                                                                                                                                      
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel64"><div align="right">R$ 216.202,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel64"><div align="right">R$ 0,00</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel65">
+	<td width="10%" id="coluna1Nivel65">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel65">
+			1990990308- OUTRAS RECEITAS - RIOURBE                                                                                                                                                                                                                     
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel65"><div align="right">R$ 65.000,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel65"><div align="right">R$ 1.488,81</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel66">
+	<td width="10%" id="coluna1Nivel66">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel66">
+			1990990309- OUTRAS RECEITAS - EMAG                                                                                                                                                                                                                        
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel66"><div align="right">R$ 110.709,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel66"><div align="right">R$ 0,00</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel67">
+	<td width="10%" id="coluna1Nivel67">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel67">
+			1990990310- OUTRAS RECEITAS - MULTIRIO                                                                                                                                                                                                                    
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel67"><div align="right">R$ 117.119,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel67"><div align="right">R$ 15.973,69</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel68">
+	<td width="10%" id="coluna1Nivel68">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel68">
+			1990990311- OUTRAS RECEITAS - RIOFILME                                                                                                                                                                                                                    
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel68"><div align="right">R$ 19.563,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel68"><div align="right">R$ 911.818,91</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<!--<tr class="tabela" id="linhaNivel6">
+	<td width="10%" id="coluna1Nivel6">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel6<'%= i1 %>"><a href="#Resp" onclick="AbreTreeViewNivel7('','','','','','','','','receitas/orgao/resposta7.asp','receitas/orgao/linkNivel06Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td id="coluna2Nivel6" class='QuebraLinha'></td>
+		</tr>
+		
+	</table>
+	
+	</td>
+	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel6"><div align="right">R$ </div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel6"><div align="right">R$ </div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel7"></div></td>
+</tr>-->
+<!--  ####### Este trecho foi omitido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+<tr class="tabela" id="linhaNivel69">
+	<td width="10%" id="coluna1Nivel69">&nbsp;</td>
+	<td width="50%">
+	
+		<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela" id="coluna2Nivel69">
+			1990990313- OUTRAS RECEITAS - RIOCENTRO                                                                                                                                                                                                                   
+			</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna3Nivel69"><div align="right">R$ 735.546,00</div></td>
+	<!--<td align="right" nowrap="nowrap" width="10%">R$ </td>-->
+	<td class="tabela" align="right" nowrap="nowrap" id="coluna4Nivel69"><div align="right">R$ 462.756,48</div></td>
+</tr>
+<!--  ####### Este trecho foi incluido conforme solicitacao feita em 24/08/2015. Nao havera link para o nivel 7 ##### -->
+
+
+</table>
+
+
+
+
+
+
+
+	
+
+
+
+
+

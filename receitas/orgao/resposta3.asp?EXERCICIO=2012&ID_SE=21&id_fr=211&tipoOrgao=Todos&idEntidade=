@@ -1,0 +1,27 @@
+
+<table class="tabela"  width="100%">
+
+<tr class="tabela" id="linhaNivel30">
+	<td width="4%" id="coluna1Nivel20">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel30"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2012&ID_SE=21&id_fr=211&id_sr=2114&tipoOrgao=Todos&idEntidade=','','','0','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel30">2114- OPERACOES DE CREDITO INTERNAS-CONTRATUAIS                                                                                                                                                                                                           </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel30"><div align="right">R$ 869.451.025,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel30"><div align="right">R$ 457.058.452,60</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel40"></div></td>
+</tr>
+
+</table>
+

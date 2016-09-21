@@ -1,0 +1,63 @@
+
+<table class="tabela" width="100%">
+
+<tr class="tabela" id="linhaNivel40">
+	<td width="6%" id="coluna1Nivel40">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel40"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2014&ID_SE=24&id_fr=242&id_sr=2421&id_RUB=242101&tipoOrgao=Todos&idEntidade=','','','','0','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel40">242101- TRANSFERENCIAS DE RECURSOS DO SISTEMA UNICO DE SAUDE - SUS                                                                                                                                                                                        </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel40"><div align="right">R$ 2.085.674,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel40"><div align="right">R$ 18.363.891,65</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel50"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel41">
+	<td width="6%" id="coluna1Nivel41">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel41"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2014&ID_SE=24&id_fr=242&id_sr=2421&id_RUB=242102&tipoOrgao=Todos&idEntidade=','','','','1','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel41">242102- TRANSFERENCIAS DE RECURSOS DESTINADOS A PROGRAMAS DE EDUCACAO                                                                                                                                                                                     </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel41"><div align="right">R$ 30.009.000,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel41"><div align="right">R$ 189.369,95</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel51"></div></td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+	
+
+
+
+
+

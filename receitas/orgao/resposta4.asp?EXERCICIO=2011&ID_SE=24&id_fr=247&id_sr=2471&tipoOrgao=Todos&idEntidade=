@@ -1,0 +1,132 @@
+
+<table class="tabela" width="100%">
+
+<tr class="tabela" id="linhaNivel40">
+	<td width="6%" id="coluna1Nivel40">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel40"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2011&ID_SE=24&id_fr=247&id_sr=2471&id_RUB=247101&tipoOrgao=Todos&idEntidade=','','','','0','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel40">247101- TRANSFERENCIAS DE CONVENIO DA UNIAO PARA O SISTEMA UNICO DE SAUDE-SUS                                                                                                                                                                             </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel40"><div align="right">R$ 13.280.375,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel40"><div align="right">R$ 0,00</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel50"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel41">
+	<td width="6%" id="coluna1Nivel41">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel41"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2011&ID_SE=24&id_fr=247&id_sr=2471&id_RUB=247199&tipoOrgao=Todos&idEntidade=','','','','1','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel41">247199- OUTRAS TRANSFERENCIAS DE CONVENIOS DA UNIAO                                                                                                                                                                                                       </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel41"><div align="right">R$ 451.277.055,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel41"><div align="right">R$ 69.039.677,08</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel51"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel42">
+	<td width="6%" id="coluna1Nivel42">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel42"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2011&ID_SE=24&id_fr=247&id_sr=2471&id_RUB=247103&tipoOrgao=Todos&idEntidade=','','','','2','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel42">247103- TRANSFERENCIAS DE CONVENIOS DA UNIAO DESTINADOS A PROGRAMAS DE SANEAMENTO BASICO                                                                                                                                                                  </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel42"><div align="right">R$ 40.884.663,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel42"><div align="right">R$ 1.495.575,44</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel52"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel43">
+	<td width="6%" id="coluna1Nivel43">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel43"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2011&ID_SE=24&id_fr=247&id_sr=2471&id_RUB=247105&tipoOrgao=Todos&idEntidade=','','','','3','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel43">247105- TRANSFERENCIAS DE CONVENIOS UNIAO DESTINADOS A PROGRAMAS DE INFRA-ESTRUTURA TRANSPORTES                                                                                                                                                           </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel43"><div align="right">R$ 3.667.500,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel43"><div align="right">R$ 0,00</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel53"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel44">
+	<td width="6%" id="coluna1Nivel44">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel44"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2011&ID_SE=24&id_fr=247&id_sr=2471&id_RUB=247102&tipoOrgao=Todos&idEntidade=','','','','4','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel44">247102- TRANSFERENCIAS DE CONVENIOS DA UNIAO DESTINADOS A PROGRAMAS DE EDUCACAO                                                                                                                                                                           </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel44"><div align="right">R$ 3.036.235,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel44"><div align="right">R$ 3.144.770,21</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel54"></div></td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+	
+
+
+
+
+

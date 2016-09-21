@@ -1,0 +1,109 @@
+
+<table class="tabela" width="100%">
+
+<tr class="tabela" id="linhaNivel50">
+	<td width="8%" id="coluna1Nivel50">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel50"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2007&ID_SE=16&id_fr=160&id_sr=1600&id_RUB=160099&ID_srub=16009903&tipoOrgao=Todos&idEntidade=','','','','','0','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel50">16009903- OUTROS SERVICOS - EMPRESAS                                                                                                                                                                                                                      </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel50"><div align="right">R$ 15.547.898,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel50"><div align="right">R$ 11.369.302,86</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel60"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel51">
+	<td width="8%" id="coluna1Nivel51">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel51"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2007&ID_SE=16&id_fr=160&id_sr=1600&id_RUB=160099&ID_srub=16009907&tipoOrgao=Todos&idEntidade=','','','','','1','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel51">16009907- SERVICOS DE ESTACIONAMENTOS E ESTADIAS                                                                                                                                                                                                          </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel51"><div align="right">R$ 16.107.880,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel51"><div align="right">R$ 13.182.074,64</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel61"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel52">
+	<td width="8%" id="coluna1Nivel52">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel52"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2007&ID_SE=16&id_fr=160&id_sr=1600&id_RUB=160099&ID_srub=16009902&tipoOrgao=Todos&idEntidade=','','','','','2','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel52">16009902- OUTROS SERVICOS - AUTARQUIAS E FUNDACOES                                                                                                                                                                                                        </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel52"><div align="right">R$ 143.975,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel52"><div align="right">R$ 38.980,98</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel62"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel53">
+	<td width="8%" id="coluna1Nivel53">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel53"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2007&ID_SE=16&id_fr=160&id_sr=1600&id_RUB=160099&ID_srub=16009906&tipoOrgao=Todos&idEntidade=','','','','','3','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel53">16009906- SERVICOS DE REMOCAO E PODA DE ARVORES                                                                                                                                                                                                           </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel53"><div align="right">R$ 50.000,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel53"><div align="right">R$ 51.002,02</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel63"></div></td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+	
+
+
+
+
+

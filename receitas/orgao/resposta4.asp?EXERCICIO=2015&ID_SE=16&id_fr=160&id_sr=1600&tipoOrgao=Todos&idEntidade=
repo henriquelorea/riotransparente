@@ -1,0 +1,224 @@
+
+<table class="tabela" width="100%">
+
+<tr class="tabela" id="linhaNivel40">
+	<td width="6%" id="coluna1Nivel40">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel40"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2015&ID_SE=16&id_fr=160&id_sr=1600&id_RUB=160010&tipoOrgao=Todos&idEntidade=','','','','0','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel40">160010- SERVICOS DE INFORMACOES ESTATISTICAS                                                                                                                                                                                                              </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel40"><div align="right">R$ 170.000,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel40"><div align="right">R$ 50.100,00</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel50"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel41">
+	<td width="6%" id="coluna1Nivel41">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel41"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2015&ID_SE=16&id_fr=160&id_sr=1600&id_RUB=160043&tipoOrgao=Todos&idEntidade=','','','','1','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel41">160043- SERVICOS DE COLETA, TRANSPORTE, TRATAMENTO E DESTINO FINAL DE RESIDUOS SOLIDOS                                                                                                                                                                    </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel41"><div align="right">R$ 25.897.462,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel41"><div align="right">R$ 18.415.790,79</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel51"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel42">
+	<td width="6%" id="coluna1Nivel42">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel42"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2015&ID_SE=16&id_fr=160&id_sr=1600&id_RUB=160020&tipoOrgao=Todos&idEntidade=','','','','2','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel42">160020- SERVICOS DE CONSULTORIA,ASSISTENCIA TECNICA E ANALISE DE PROJETOS                                                                                                                                                                                 </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel42"><div align="right">R$ 46.705,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel42"><div align="right">R$ 78.543,36</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel52"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel43">
+	<td width="6%" id="coluna1Nivel43">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel43"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2015&ID_SE=16&id_fr=160&id_sr=1600&id_RUB=160005&tipoOrgao=Todos&idEntidade=','','','','3','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel43">160005- SERVICOS DE SAUDE                                                                                                                                                                                                                                 </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel43"><div align="right">R$ 0,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel43"><div align="right">R$ 0,00</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel53"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel44">
+	<td width="6%" id="coluna1Nivel44">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel44"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2015&ID_SE=16&id_fr=160&id_sr=1600&id_RUB=160013&tipoOrgao=Todos&idEntidade=','','','','4','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel44">160013- SERVICOS ADMINISTRATIVOS                                                                                                                                                                                                                          </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel44"><div align="right">R$ 15.257.629,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel44"><div align="right">R$ 21.723.392,68</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel54"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel45">
+	<td width="6%" id="coluna1Nivel45">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel45"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2015&ID_SE=16&id_fr=160&id_sr=1600&id_RUB=160099&tipoOrgao=Todos&idEntidade=','','','','5','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel45">160099- OUTROS SERVICOS                                                                                                                                                                                                                                   </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel45"><div align="right">R$ 30.566.267,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel45"><div align="right">R$ 44.813.644,16</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel55"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel46">
+	<td width="6%" id="coluna1Nivel46">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel46"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2015&ID_SE=16&id_fr=160&id_sr=1600&id_RUB=160014&tipoOrgao=Todos&idEntidade=','','','','6','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel46">160014- SERVICOS DE INSPECAO E FISCALIZACAO                                                                                                                                                                                                               </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel46"><div align="right">R$ 6.931.708,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel46"><div align="right">R$ 5.593,27</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel56"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel47">
+	<td width="6%" id="coluna1Nivel47">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel47"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2015&ID_SE=16&id_fr=160&id_sr=1600&id_RUB=160016&tipoOrgao=Todos&idEntidade=','','','','7','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel47">160016- SERVICOS EDUCACIONAIS                                                                                                                                                                                                                             </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel47"><div align="right">R$ 1.500,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel47"><div align="right">R$ 1.400,00</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel57"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel48">
+	<td width="6%" id="coluna1Nivel48">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel48"><a href="#Resp1" onclick="AbreTreeViewNivel5('&EXERCICIO=2015&ID_SE=16&id_fr=160&id_sr=1600&id_RUB=160019&tipoOrgao=Todos&idEntidade=','','','','8','','','','receitas/orgao/resposta5.asp','receitas/orgao/linkNivel04Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel48">160019- SERVICOS RECREATIVOS E CULTURAIS                                                                                                                                                                                                                  </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel48"><div align="right">R$ 16.474.640,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel48"><div align="right">R$ 12.011.166,46</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel58"></div></td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+	
+
+
+
+
+

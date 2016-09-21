@@ -1,0 +1,49 @@
+
+<table class="tabela"  width="100%">
+
+<tr class="tabela" id="linhaNivel30">
+	<td width="4%" id="coluna1Nivel20">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel30"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2015&ID_SE=11&id_fr=112&id_sr=1122&tipoOrgao=Todos&idEntidade=','','','0','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel30">1122- TAXAS PELA PRESTACAO DE SERVICOS                                                                                                                                                                                                                    </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel30"><div align="right">R$ 305.606.751,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel30"><div align="right">R$ 311.923.397,29</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel40"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel31">
+	<td width="4%" id="coluna1Nivel21">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel31"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2015&ID_SE=11&id_fr=112&id_sr=1121&tipoOrgao=Todos&idEntidade=','','','1','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel31">1121- TAXAS PELO EXERCICIO DO PODER DE POLICIA                                                                                                                                                                                                            </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel31"><div align="right">R$ 103.518.932,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel31"><div align="right">R$ 103.196.908,84</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel41"></div></td>
+</tr>
+
+</table>
+

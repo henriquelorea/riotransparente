@@ -1,0 +1,115 @@
+
+<table class="tabela"  width="100%">
+
+<tr class="tabela" id="linhaNivel30">
+	<td width="4%" id="coluna1Nivel20">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel30"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2012&ID_SE=17&id_fr=176&id_sr=1761&tipoOrgao=Todos&idEntidade=','','','0','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel30">1761- TRANSFERENCIA DE CONVENIOS DA UNIAO E SUAS ENTIDADES                                                                                                                                                                                                </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel30"><div align="right">R$ 58.741.211,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel30"><div align="right">R$ 13.031.661,54</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel40"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel31">
+	<td width="4%" id="coluna1Nivel21">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel31"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2012&ID_SE=17&id_fr=176&id_sr=1762&tipoOrgao=Todos&idEntidade=','','','1','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel31">1762- TRANSFERENCIA DE CONVENIOS DOS ESTADOS                                                                                                                                                                                                              </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel31"><div align="right">R$ 804.645,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel31"><div align="right">R$ 733.156,74</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel41"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel32">
+	<td width="4%" id="coluna1Nivel22">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel32"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2012&ID_SE=17&id_fr=176&id_sr=1765&tipoOrgao=Todos&idEntidade=','','','2','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel32">1765- TRANSFERENCIA DE CONVENIOS DO EXTERIOR                                                                                                                                                                                                              </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel32"><div align="right">R$ 33.587,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel32"><div align="right">R$ 22.558,61</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel42"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel33">
+	<td width="4%" id="coluna1Nivel23">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel33"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2012&ID_SE=17&id_fr=176&id_sr=1766&tipoOrgao=Todos&idEntidade=','','','3','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel33">1766- TRANSFERENCIAS DE CONVENIOS DA UNIAO E SUAS ENTIDADES (CONTINUACAO)                                                                                                                                                                                 </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel33"><div align="right">R$ 1.050.040,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel33"><div align="right">R$ 3.259.686,25</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel43"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel34">
+	<td width="4%" id="coluna1Nivel24">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel34"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2012&ID_SE=17&id_fr=176&id_sr=1764&tipoOrgao=Todos&idEntidade=','','','4','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel34">1764- TRANSFERENCIAS DE CONVENIOS DE INSTITUICOES PRIVADAS                                                                                                                                                                                                </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel34"><div align="right">R$ 1.645.900,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel34"><div align="right">R$ 0,00</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel44"></div></td>
+</tr>
+
+</table>
+

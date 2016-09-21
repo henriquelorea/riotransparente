@@ -1,0 +1,93 @@
+
+<table class="tabela"  width="100%">
+
+<tr class="tabela" id="linhaNivel30">
+	<td width="4%" id="coluna1Nivel20">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel30"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2012&ID_SE=24&id_fr=247&id_sr=2475&tipoOrgao=Todos&idEntidade=','','','0','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel30">2475- TRANSFERENCIAS DE CONVENIOS DO EXTERIOR                                                                                                                                                                                                             </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel30"><div align="right">R$ 616.494,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel30"><div align="right">R$ 0,00</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel40"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel31">
+	<td width="4%" id="coluna1Nivel21">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel31"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2012&ID_SE=24&id_fr=247&id_sr=2476&tipoOrgao=Todos&idEntidade=','','','1','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel31">2476- TRANSFERENCIAS DE CONVENIOS DA UNIAO E DE SUAS ENTIDADES  (CONTINUACAO)                                                                                                                                                                             </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel31"><div align="right">R$ 0,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel31"><div align="right">R$ 8.756.697,15</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel41"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel32">
+	<td width="4%" id="coluna1Nivel22">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel32"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2012&ID_SE=24&id_fr=247&id_sr=2471&tipoOrgao=Todos&idEntidade=','','','2','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel32">2471- TRANSFERENCIAS DE CONVENIOS DA UNIAO E DE SUAS ENTIDADES                                                                                                                                                                                            </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel32"><div align="right">R$ 312.693.585,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel32"><div align="right">R$ 127.289.712,88</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel42"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel33">
+	<td width="4%" id="coluna1Nivel23">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel33"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2012&ID_SE=24&id_fr=247&id_sr=2472&tipoOrgao=Todos&idEntidade=','','','3','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel33">2472- TRANSFERENCIAS DE CONVENIOS DOS ESTADOS                                                                                                                                                                                                             </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel33"><div align="right">R$ 0,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel33"><div align="right">R$ 3.800.000,00</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel43"></div></td>
+</tr>
+
+</table>
+

@@ -1,0 +1,48 @@
+
+<table class="tabela"  width="100%">
+
+<tr class="tabela" id="linhaNivel20">
+	<td width="2%" id="coluna1Nivel20">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel20"><a href="#Resp1" onclick="AbreTreeViewNivel3('&EXERCICIO=2014&ID_SE=21&id_fr=211&tipoOrgao=Todos&idEntidade=','','0','','','','','','receitas/orgao/resposta3.asp','receitas/orgao/linkNivel02Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel20">211- OPERACOES DE CREDITO INTERNAS                                                                                                                                                                                                                        </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel20"><div align="right">R$ 2.307.238.105,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel20"><div align="right">R$ 1.565.172.180,42</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel30"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel21">
+	<td width="2%" id="coluna1Nivel21">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel21"><a href="#Resp1" onclick="AbreTreeViewNivel3('&EXERCICIO=2014&ID_SE=21&id_fr=212&tipoOrgao=Todos&idEntidade=','','1','','','','','','receitas/orgao/resposta3.asp','receitas/orgao/linkNivel02Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel21">212- OPERACOES DE CREDITO EXTERNAS                                                                                                                                                                                                                        </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel21"><div align="right">R$ 101.199.000,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel21"><div align="right">R$ 70.582.885,61</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel31"></div></td>
+</tr>
+
+</table>

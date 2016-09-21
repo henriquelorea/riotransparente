@@ -1,0 +1,93 @@
+
+<table class="tabela"  width="100%">
+
+<tr class="tabela" id="linhaNivel30">
+	<td width="4%" id="coluna1Nivel20">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel30"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2009&ID_SE=19&id_fr=191&id_sr=1913&tipoOrgao=Todos&idEntidade=','','','0','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel30">1913- MULTAS E JUROS DE MORA DA DIVIDA ATIVA DOS TRIBUTOS                                                                                                                                                                                                 </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel30"><div align="right">R$ 124.211.995,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel30"><div align="right">R$ 138.140.599,50</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel40"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel31">
+	<td width="4%" id="coluna1Nivel21">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel31"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2009&ID_SE=19&id_fr=191&id_sr=1912&tipoOrgao=Todos&idEntidade=','','','1','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel31">1912- MULTAS E JUROS DE MORA DAS CONTRIBUICOES                                                                                                                                                                                                            </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel31"><div align="right">R$ 0,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel31"><div align="right">R$ 4.033,03</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel41"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel32">
+	<td width="4%" id="coluna1Nivel22">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel32"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2009&ID_SE=19&id_fr=191&id_sr=1911&tipoOrgao=Todos&idEntidade=','','','2','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel32">1911- MULTAS E JUROS DE MORA DOS TRIBUTOS                                                                                                                                                                                                                 </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel32"><div align="right">R$ 102.225.165,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel32"><div align="right">R$ 81.589.686,94</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel42"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel33">
+	<td width="4%" id="coluna1Nivel23">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel33"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2009&ID_SE=19&id_fr=191&id_sr=1919&tipoOrgao=Todos&idEntidade=','','','3','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel33">1919- MULTAS DE OUTRAS ORIGENS                                                                                                                                                                                                                            </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel33"><div align="right">R$ 86.213.090,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel33"><div align="right">R$ 115.582.740,40</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel43"></div></td>
+</tr>
+
+</table>
+

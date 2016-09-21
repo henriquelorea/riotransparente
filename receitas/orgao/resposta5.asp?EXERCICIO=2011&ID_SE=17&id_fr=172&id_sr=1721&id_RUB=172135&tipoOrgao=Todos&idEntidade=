@@ -1,0 +1,109 @@
+
+<table class="tabela" width="100%">
+
+<tr class="tabela" id="linhaNivel50">
+	<td width="8%" id="coluna1Nivel50">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel50"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2011&ID_SE=17&id_fr=172&id_sr=1721&id_RUB=172135&ID_srub=17213503&tipoOrgao=Todos&idEntidade=','','','','','0','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel50">17213503- TRANSFERENCIAS DIRETAS DO FNDE PROGRAMA NACIONAL E ALIMENTACAO ESCOLAR-PNAE                                                                                                                                                                     </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel50"><div align="right">R$ 48.359.578,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel50"><div align="right">R$ 50.099.652,00</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel60"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel51">
+	<td width="8%" id="coluna1Nivel51">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel51"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2011&ID_SE=17&id_fr=172&id_sr=1721&id_RUB=172135&ID_srub=17213599&tipoOrgao=Todos&idEntidade=','','','','','1','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel51">17213599- OUTRAS TRANSF.DIRETAS FUNDO NACIONAL DESENVOLVIMENTO EDUCACAO-FNDE                                                                                                                                                                              </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel51"><div align="right">R$ 2.545.369,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel51"><div align="right">R$ 2.376.928,95</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel61"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel52">
+	<td width="8%" id="coluna1Nivel52">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel52"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2011&ID_SE=17&id_fr=172&id_sr=1721&id_RUB=172135&ID_srub=17213502&tipoOrgao=Todos&idEntidade=','','','','','2','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel52">17213502- TRANSFERENCIAS DIRETAS DO FNDE PROGRAMA DINHEIRO DIRETO NA ESCOLA-PDDE                                                                                                                                                                          </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel52"><div align="right">R$ 20.590.906,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel52"><div align="right">R$ 19.205.226,72</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel62"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel53">
+	<td width="8%" id="coluna1Nivel53">&nbsp;</td>
+	
+	<td width="40%">
+	
+	<table>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td class="tabela">
+		<div id="linkNivel53"><a href="#Resp1" onclick="AbreTreeViewNivel6('&EXERCICIO=2011&ID_SE=17&id_fr=172&id_sr=1721&id_RUB=172135&ID_srub=17213501&tipoOrgao=Todos&idEntidade=','','','','','3','','','receitas/orgao/resposta6.asp','receitas/orgao/linkNivel05Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel53">17213501- TRANSFERENCIAS DO SALARIO-EDUCACAO                                                                                                                                                                                                              </td>
+		</tr>
+	</table>
+	
+	</td>	
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel53"><div align="right">R$ 235.113.581,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel53"><div align="right">R$ 220.143.220,58</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel63"></div></td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+	
+
+
+
+
+

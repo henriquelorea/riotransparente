@@ -1,0 +1,115 @@
+
+<table class="tabela"  width="100%">
+
+<tr class="tabela" id="linhaNivel30">
+	<td width="4%" id="coluna1Nivel20">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel30"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2011&ID_SE=13&id_fr=131&id_sr=1313&tipoOrgao=Todos&idEntidade=','','','0','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel30">1313- FOROS                                                                                                                                                                                                                                               </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel30"><div align="right">R$ 2.042.104,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel30"><div align="right">R$ 3.801.919,86</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel40"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel31">
+	<td width="4%" id="coluna1Nivel21">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel31"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2011&ID_SE=13&id_fr=131&id_sr=1312&tipoOrgao=Todos&idEntidade=','','','1','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel31">1312- ARRENDAMENTOS                                                                                                                                                                                                                                       </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel31"><div align="right">R$ 0,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel31"><div align="right">R$ 2.862,19</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel41"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel32">
+	<td width="4%" id="coluna1Nivel22">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel32"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2011&ID_SE=13&id_fr=131&id_sr=1311&tipoOrgao=Todos&idEntidade=','','','2','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel32">1311- ALUGUEIS                                                                                                                                                                                                                                            </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel32"><div align="right">R$ 3.220.353,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel32"><div align="right">R$ 7.055.653,45</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel42"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel33">
+	<td width="4%" id="coluna1Nivel23">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel33"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2011&ID_SE=13&id_fr=131&id_sr=1314&tipoOrgao=Todos&idEntidade=','','','3','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel33">1314- LAUDEMIOS                                                                                                                                                                                                                                           </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel33"><div align="right">R$ 8.088.560,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel33"><div align="right">R$ 15.909.323,06</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel43"></div></td>
+</tr>
+
+<tr class="tabela" id="linhaNivel34">
+	<td width="4%" id="coluna1Nivel24">&nbsp;</td>
+	
+	<td width="40%" class="tabela">
+		<table>
+		  <tr>
+		  	<td>&nbsp;</td>
+			<td>
+		<div id="linkNivel34"><a href="#Resp1" onclick="AbreTreeViewNivel4('&EXERCICIO=2011&ID_SE=13&id_fr=131&id_sr=1319&tipoOrgao=Todos&idEntidade=','','','4','','','','','receitas/orgao/resposta4.asp','receitas/orgao/linkNivel03Fecha.asp');"><img src="imagens/plus.gif" align="middle" border="0"></a></div>
+			</td>
+			<td class='QuebraLinha' id="coluna2Nivel34">1319- OUTRAS RECEITAS IMOBILIARIAS                                                                                                                                                                                                                        </td>
+		  </tr>
+		</table>
+		
+	</td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna3Nivel34"><div align="right">R$ 8.475.639,00</div></td>
+	<td class="tabela" align="right" nowrap="nowrap" width="20%" id="coluna4Nivel34"><div align="right">R$ 17.357.919,49</div></td>
+</tr>
+<tr>
+	<td colspan="5"><div id="nivel44"></div></td>
+</tr>
+
+</table>
+
