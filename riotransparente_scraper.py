@@ -22,7 +22,7 @@ def mkDirsFromUrl(urlArg, dirArg):
             if os.path.isdir(dirStruct) == False:
                 # print 'Diretorio', dirStruct, 'criado'
                 os.makedirs(dirStruct)
-    return dirStruct
+        return dirStruct
 
 def realToFloat(x):
     '''transforms R$ currency strings into floats'''
@@ -35,6 +35,8 @@ def realToFloat(x):
 def agoravai(baseUrlArg, dirArg):
     # variables
     linkList = []
+    levelList = []
+    outList = []
     linkList.append(baseUrlArg)
 
     header = {}
@@ -60,9 +62,24 @@ def agoravai(baseUrlArg, dirArg):
         with open(wf, 'r') as fr:
             soup = BeautifulSoup(fr, 'html.parser', from_encoding="iso-8859-1")
         # Extracting attributes from URL
-        urlAttr = urlArg[urlArg.find('?')+1:].split('&')
-        urlAttr = [i.split('=') for i in urlAttr]
-        urlAttr = {i[0] : i[1] for i in urlAttr}
+        def extractUrlAttr(urlArg):
+            urlAttr = urlArg[urlArg.find('?')+1:].split('&')
+            urlAttr = [i.split('=') for i in urlAttr]
+            urlAttr = {i[0]: i[1] for i in urlAttr}
+            return urlAttr
+
+        def extractLinkAttr(prelinkArg):
+            #bruto = prelinkArg.find('a')['onclick']
+            bruto = prelinkArg['onclick']
+            bruto = bruto[bruto.find('(')+1:bruto.find(')')]
+            bruto = sub("[\']",'', bruto)
+            bruto = sub("[ ]",'', bruto)
+            bruto = sub('^[&]','?', bruto)
+            bruto = bruto.split(',')
+            return '/'.join(urlArg.split('/')[:-3]+[bruto[8] + bruto[0]])
+
+        urlAttr = extractUrlAttr(urlArg)
+
         prenivel = urlArg[urlArg.find('resposta')+len('resposta'):urlArg.find('resposta')+len('resposta')+1]
         if prenivel in [str(i) for i in range(2,7)]:
             urlAttr['nivel'] = int(prenivel)
@@ -75,21 +92,23 @@ def agoravai(baseUrlArg, dirArg):
             rowList = []
             for i in row.stripped_strings:
                 rowList.append(i)
+            prelink = row.find('a')
+            if prelink is not None:
+                responseAttr['link'] = extractLinkAttr(prelink)
+                linkList.append(responseAttr['link'])
+                linkAttr = extractUrlAttr(responseAttr['link'])
+                for attr in linkAttr.iterkeys():
+                    if attr not in urlAttr.keys() + ['fimCursor', 'idEntidade']:
+                        level = attr
+                        if len(levelList) == 0 or (len(levelList) > 0 and level <> levelList[-1]):
+                            levelList.append(level)
+                            print levelList
+
             responseAttr['cod'] = rowList[0][:rowList[0].find('-')]
             responseAttr['desc'] = rowList[0][rowList[0].find('-')+2:]
             responseAttr['valorPrev'] = realToFloat(rowList[1])
             responseAttr['valorArrec'] = realToFloat(rowList[2])
             # Parsing a href and returning a url link
-            prelink = row.find('a')
-            if prelink is not None:
-                bruto = row.find('a')['onclick']
-                bruto = bruto[bruto.find('(')+1:bruto.find(')')]
-                bruto = sub("[\']",'', bruto)
-                bruto = sub("[ ]",'', bruto)
-                bruto = sub('^[&]','?', bruto)
-                bruto = bruto.split(',')
-                responseAttr['link'] = '/'.join(urlArg.split('/')[:-3]+[bruto[8] + bruto[0]])
-                linkList.append(responseAttr['link'])
             responseAttrList.append(responseAttr)
 
         # Preparing output
@@ -148,11 +167,11 @@ def agoravai(baseUrlArg, dirArg):
     return True
 
 baseUrl = 'http://riotransparente.rio.rj.gov.br/receitas/orgao/receitasPorOrgaoApresentacaoDados.asp?EXERCICIO={0}&tipoOrgao=Todos&periodo=Anual'
-baseDir = '/home/henrique/Documents/dapp/riotransparente'
+baseDir = '/home/pensa/code/riotransparente'
 
 dfList = []
-for ano in range(1995, 2017):
+for ano in [2016]: #range(1995, 2017):
     print ano
     dfList.append(agoravai(baseUrl.format(ano), baseDir))
 df_all = pd.concat(dfList)
-df_all.to_csv('receitas_por_orgao_1995_2016.csv', index=False)
+df_all.to_csv(os.path.join(baseDir, 'receitas_por_orgao_1995_2016.csv'), index=False)
